@@ -5,3 +5,4 @@ This is a solution to  Blog-Preview-card the on Frontend Mentor. Frontend Mentor
 #### Live Solution: 
 https://1blog-preview-card.netlify.app/
 #### Live Frontend Mentor:
+https://www.frontendmentor.io/solutions/blogpreviewcard-KN4aiwkXkS
